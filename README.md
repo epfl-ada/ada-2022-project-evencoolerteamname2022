@@ -2,8 +2,7 @@
 Authors: Eloi, Mateo, Aitor
 
 ### Abstract
-Many people have gender stereotypes. Gender stereotypes are beliefs concerning the abilities, attitudes, preferences and behaviors of a ‘typical’ man or a ‘typical’ woman[1]. For example, many people believe that women have better verbal abilities than men, whereas men are assumed to have better mathematical skills than women. Whereas research has partly confirmed the former assumption (e.g., for verbal fluency[2]), it has disconfirmed the latter. Because stereotypes may, at least partly, reflect real differences between groups, stereotypes are not necessarily inaccurate[3]. Hence, “the accuracy of stereotypes is an empirical question, not an ideological one”. Previous research has already addressed the accuracy of gender stereotypes concerning attitudes or cognitive abilities, but there is almost no research about the accuracy of gender stereotypes. The present study thus compared presumed and actual differences in men and women roles in the film industry.
-
+The core idea of this project is the the representation of gender in the film industry. Usually roles assigned to women and men are based on stereotypes. Gender stereotypes are beliefs concerning the abilities, attitudes, preferences and behaviors of a ‘typical’ man or a ‘typical’ woman[1]. For example, many people believe women roles are more centered around the idea of beauty and love, whereas men roles are more focused on action and comedy. In this study, we will analyze if women and men do indeed receive roles based on stereotypes, and we will also study the repartition of lead roles between the sexes in different movie genres through time.
 ### Main question 1:
 #### What defines each gender in a movie ?
 - Stereotypes from tvtropes, which are the most prominent ones ?
