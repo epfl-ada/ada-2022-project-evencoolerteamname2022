@@ -7,9 +7,11 @@ The core idea of this project is the the representation of gender in the film in
 #### What defines each gender in a movie ?
 - Stereotypes from tvtropes, which are the most prominent ones ?
   - Representation of men vs women in the different movie genres.
+  - How are movie genres characterised by stereotypes among men and women.
   - Which gender is more heavily described for their physical attributes ?
   - Are women more likely to be involved in a love story ?
-- Representation of each gender in movies through time
+- Is there a gender gap regarding the age of the actors.
+- Representation of each gender in movies through time.
 
 ### Methods and timeline:
 The first step, which has already been started in the notebook is the importation, pre-processing and combining of the data from the dataset.
