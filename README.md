@@ -2,7 +2,8 @@
 Authors: Eloi, Mateo, Aitor
 
 ### Abstract
-The core idea of this project is the the representation of gender in the film industry. Usually roles assigned to women and men are based on stereotypes. Gender stereotypes are beliefs concerning the abilities, attitudes, preferences and behaviors of a ‘typical’ man or a ‘typical’ woman[1]. For example, many people believe women roles are more centered around the idea of beauty and love, whereas men roles are more focused on action and comedy. In this study, we will analyze if women and men do indeed receive roles based on stereotypes, and we will also study the repartition of lead roles between the sexes in different movie genres through time.
+The core idea of this project is the the gender representation in the film industry. Usually roles assigned to women and men are based on stereotypes. Gender stereotypes are beliefs concerning the abilities, attitudes, preferences and behaviors of a ‘typical’ man or a ‘typical’ woman[1]. For example, many people believe women roles are more centered around the idea of beauty and love, whereas men roles are more focused on action and comedy. In this study, we will analyze if women and men do indeed receive roles based on stereotypes, and we will also study the repartition of lead roles between the sexes in different movie genres through time.
+We will also analyze the extent to which the "Smurfette principle" occurs. As defined in Wikipedia, this principle is the practice in media, such as film and television, to include only one woman in an otherwise entirely male ensemble. It establishes a male-dominated narrative, where the woman is the exception and exists only in reference to the men.
 ### Main question:
 #### What defines each gender in a movie ?
 - Stereotypes from tvtropes, which are the most prominent ones ?
