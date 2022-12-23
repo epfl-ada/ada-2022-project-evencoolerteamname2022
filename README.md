@@ -25,11 +25,15 @@ The final part is the website creation, we will use Github Pages to host our web
 5. Create results page with interactive graphs and visualizations (Week 5)
 
 ## 6. Organization within the team
--Eloi: Data preprocessing, natural language processing to the plot summaries, visualization, plots explanation.
--Mateo: Data preprocessing, visualization, plots explanation, website creation.
--Aitor: Statistical analysis, visualization, plots explanation, notebook explanations.
+Eloi: Data preprocessing, natural language processing to the plot summaries, visualization, plots explanation.
+
+Mateo: Data preprocessing, visualization, plots explanation, website creation.
+
+Aitor: Statistical analysis, visualization, plots explanation, notebook explanations.
 
 ## 7. Authors
--Eloy Eynard
--Aitor Ganuza
--Mateo Echeverry Hoyos
+Eloy Eynard
+
+Aitor Ganuza
+
+Mateo Echeverry Hoyos
