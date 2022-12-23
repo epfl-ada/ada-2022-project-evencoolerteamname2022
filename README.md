@@ -1,6 +1,6 @@
 # EvenCoolerTeamName2022 project
 
-###Check our story [here](https://mateo762.github.io/ada-project/).
+### Check our story [here](https://mateo762.github.io/ada-project/).
 
 ## 1. Title
 Gender Representation in the Film Industry
